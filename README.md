@@ -10,7 +10,7 @@ Run the <a href="https://colab.research.google.com/drive/1ovUZ7I4BJ0wfHTlgOiZlwV
 
 ## Repositories?
 
-(Web app repository)[https://github.com/yupikaiei/paperpods-web]
-(Server repository)[https://github.com/yupikaiei/paperpods-server]
+<a href="https://github.com/yupikaiei/paperpods-web" target="_blank">Web app repository</a>
+<a href="https://github.com/yupikaiei/paperpods-server" target="_blank">Server repository</a>
 
 
