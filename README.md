@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/logo.png" alt="Alt text">
+</p>
+
 # Welcome to the PaperPods Project!
 
 ## What is PaperPods?
@@ -8,9 +12,9 @@ PaperPods is an exciting and user-friendly web application that allows you to cr
 
 Run the <a href="https://colab.research.google.com/drive/1ovUZ7I4BJ0wfHTlgOiZlwV7ph2Xe1K39#scrollTo=f_0YRZiUylMW" target="_blank">colab notebook</a> and follow the instructions.
 
-## Repositories?
+## Repositories
 
-<a href="https://github.com/yupikaiei/paperpods-web" target="_blank">Web app repository</a>
+<p><a href="https://github.com/yupikaiei/paperpods-web" target="_blank">Web app repository</a></p>
 <a href="https://github.com/yupikaiei/paperpods-server" target="_blank">Server repository</a>
 
 
