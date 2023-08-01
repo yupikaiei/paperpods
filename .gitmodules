@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/yupikaiei/paperpods-server.git
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/yupikaiei/paperpods-web.git
